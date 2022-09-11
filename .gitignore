@@ -1,0 +1,17 @@
+*.class
+*.log
+.mtj.tmp/
+*.jar
+*.zip
+*.tar.gz
+*.rar
+*.lib
+*.idea
+*.iml
+target
+.idea
+idea
+.iml
+.lib
+target
+extent-reports

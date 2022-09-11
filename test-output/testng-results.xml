@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-11T06:24:50 GMT-06:00" name="Default suite" finished-at="2022-09-11T06:25:14 GMT-06:00" duration-ms="23821">
+    <groups>
+    </groups>
+    <test started-at="2022-09-11T06:24:50 GMT-06:00" name="Default test" finished-at="2022-09-11T06:25:14 GMT-06:00" duration-ms="23821">
+      <class name="selenium.test">
+        <test-method is-config="true" signature="startup()[pri:0, instance:selenium.test@1e04fa0a]" started-at="2022-09-11T06:24:50 GMT-06:00" name="startup" finished-at="2022-09-11T06:24:50 GMT-06:00" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method signature="switchtab()[pri:0, instance:selenium.test@1e04fa0a]" started-at="2022-09-11T06:24:50 GMT-06:00" name="switchtab" finished-at="2022-09-11T06:25:14 GMT-06:00" duration-ms="23466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchtab -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:selenium.test@1e04fa0a]" started-at="2022-09-11T06:25:14 GMT-06:00" name="endTest" finished-at="2022-09-11T06:25:14 GMT-06:00" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- selenium.test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
