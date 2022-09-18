@@ -30,7 +30,7 @@ public class practicePage extends BasePage {
      * Page Methods
      */
     public practicePage loginToSH(String username, String password,String company) {
-        Log.info("Trying to login the N11.");
+        Log.info("Trying to login the Practice page");
         implicitWait(10);
         click(userEmailId);
         writeText(userEmailId, username);
