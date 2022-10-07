@@ -8,4 +8,3 @@ Pros
 Cons
 -webdriver manager not implemented
 -not a cucumber project
-
